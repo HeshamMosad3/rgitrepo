@@ -1,2 +1,2 @@
 first line in file2.txt
-thris line in file2.txt
+thrid line in file2.txt
